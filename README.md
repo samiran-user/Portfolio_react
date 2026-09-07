@@ -15,7 +15,7 @@ Add your deployed portfolio link here
 
 Example:
 
-https://your-portfolio.vercel.app
+https://samiranchanak.netlify.app/
 
 ---
 
