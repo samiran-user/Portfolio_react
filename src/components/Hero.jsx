@@ -111,7 +111,7 @@ function Hero() {
             </a>
 
             <a
-              href="public\Resume.pdf"
+              href="\Resume.pdf"
               download="Samiran-Chanak-CV.pdf"
               className="cv-btn"
             >
@@ -161,7 +161,7 @@ function Hero() {
           <div className="image-container">
 
             <img
-              src="./public/SAMIRANDP.JPG"
+              src="/SAMIRANDP.JPG"
             //   alt="Samiran"
               className="profile-image"
             />

@@ -13,7 +13,7 @@ function Certifications() {
       year: "2025",
       description:
         "Certification covering Java programming fundamentals, object-oriented programming, data structures, exception handling, and core Java concepts.",
-      link: "public/Programming In Java.pdf"
+      link: "/Programming In Java.pdf"
     },
 
     // {
@@ -31,7 +31,7 @@ function Certifications() {
       year: "2025",
       description:
         "Certification covering HTML, CSS, React JS, responsive design and modern web development.",
-      link: "public/web Dev.pdf"
+      link: "/web Dev.pdf"
     }
   ];
 
