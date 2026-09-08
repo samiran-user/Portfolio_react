@@ -1,0 +1,9 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+# Optional: This prevents 404 errors when refreshing pages if you use React Router
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
